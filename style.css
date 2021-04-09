@@ -1,0 +1,19 @@
+body{
+  font-family:Arial;
+  background:#000000;
+  color: white;
+  
+}
+.welcome{
+font-size:27px ;
+
+}
+.info{
+  border: 2px solid red;
+  padding: 20px;
+}
+b{color:red;}
+
+img{
+  width: 100%;
+}
